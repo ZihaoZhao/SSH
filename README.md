@@ -8,7 +8,7 @@
 
 ### Solution:
 
-```shell
+```bash
 cp PATH/sshd_config /etc/ssh/sshd_config
 
 /etc/init.d/ssh start
