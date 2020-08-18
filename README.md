@@ -9,7 +9,7 @@
 ### Solution:
 
 ```bash
-cp PATH/sshd_config /etc/ssh/sshd_config
+cp this_repository/sshd_config /etc/ssh/sshd_config
 
 /etc/init.d/ssh start
 /etc/init.d/ssh restart
